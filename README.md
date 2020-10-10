@@ -3,7 +3,7 @@
 [![LinkedIn][2.2]][2]  
 A statistical programmer and R developer working in Clinical Trials and background in Psychology.
 
-### Things I use
+### Things used
 
 ![](https://img.shields.io/badge/Code-R%20tidyverse,%20devtools-informational?style=flat&logo=r&logoColor=white&color=5D6D7E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
@@ -21,10 +21,10 @@ A statistical programmer and R developer working in Clinical Trials and backgrou
 ### Extra bits
 
 <a href="https://github.com/jmbarbone/jmbarbone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbarbone&count_private=false&show_icons=true&custom_title=Public%20commits" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbarbone&count_private=false&show_icons=true&custom_title=Things%20done" />
 </a>
 <a href="https://github.com/jmbarbone/jmbarbone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex&langs_count=10&layout=compact&custom_title=Selected%20languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex&langs_count=10&layout=compact&custom_title=Things%20stuff%20are%20in" />
 </a>
 
 
