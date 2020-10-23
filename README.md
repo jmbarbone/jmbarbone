@@ -24,7 +24,7 @@ A statistical programmer and R developer working in Clinical Trials and backgrou
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbarbone&count_private=false&show_icons=true&custom_title=Things%20done" />
 </a>
 <a href="https://github.com/jmbarbone/jmbarbone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex&langs_count=10&layout=compact&custom_title=Things%20stuff%20are%20in" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex,css,lua,vba&langs_count=10&layout=compact&custom_title=Things%20stuff%20are%20in" />
 </a>
 
 
