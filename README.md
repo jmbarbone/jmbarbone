@@ -5,11 +5,11 @@ A statistical programmer and R developer working in Clinical Trials and backgrou
 
 ### Things used
 
-![](https://img.shields.io/badge/Code-R%20tidyverse,%20devtools-informational?style=flat&logo=r&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=sas&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql.js&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/R-advanced-informational?style=flat&logo=r&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/Python-basic-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/SAS-basic-informational?style=flat&logo=sas&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/Git-basic-informational?style=flat&logo=git&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/SQL-basic-informational?style=flat&logo=sql.js&logoColor=white&color=5D6D7E)
 
 
 <!-- This doesn't appear to be working
@@ -20,12 +20,9 @@ A statistical programmer and R developer working in Clinical Trials and backgrou
 
 ### Extra bits
 
-<a href="https://github.com/jmbarbone/jmbarbone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbarbone&count_private=false&show_icons=true&custom_title=Things%20done" />
-</a>
-<a href="https://github.com/jmbarbone/jmbarbone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex,css,lua,vba&langs_count=10&layout=compact&custom_title=Things%20stuff%20are%20in" />
-</a>
+[![Stats](https://github-readme-stats.vercel.app/api?username=jmbarbone&count_private=false&show_icons=true&custom_title=Things%20done&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex,css,lua,vba&langs_count=10&layout=compact&custom_title=Things%20stuff%20are%20in&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Icons -->
