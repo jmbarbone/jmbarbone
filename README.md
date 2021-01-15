@@ -1,6 +1,7 @@
 ## Jordan Mark Barbone
 
 [![LinkedIn][2.2]][2]  
+
 A statistical programmer and R developer working in Clinical Trials and background in Psychology.
 
 ### Things used
@@ -28,7 +29,7 @@ A statistical programmer and R developer working in Clinical Trials and backgrou
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
