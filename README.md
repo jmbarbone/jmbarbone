@@ -8,10 +8,10 @@ A statistical programmer and R developer working in Clinical Trials and backgrou
 
 ![](https://img.shields.io/badge/R-advanced-informational?style=flat&logo=r&logoColor=white&color=5D6D7E)
 ![](https://img.shields.io/badge/Python-basic-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/SAS-basic-informational?style=flat&logo=sas&logoColor=white&color=5D6D7E)
 ![](https://img.shields.io/badge/Git-basic-informational?style=flat&logo=git&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/SQL-basic-informational?style=flat&logo=sql.js&logoColor=white&color=5D6D7E)
-
+![](https://img.shields.io/badge/SQL-basic-informational?style=flat&logo=sql&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/shell-basic-informational?style=flat&logo=sh&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/SAS-basic-informational?style=flat&logo=sas&logoColor=white&color=5D6D7E)
 
 <!-- This doesn't appear to be working
 #### Overview
