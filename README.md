@@ -2,7 +2,7 @@
 
 [![LinkedIn][2.2]][2]  
 
-A statistical programmer and R developer working in Clinical Trials and background in Psychology.
+Statistical programming, R development, cognitive science.  Background and experience in Clinical Trials and Psychology.
 
 ### Things used
 
