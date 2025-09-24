@@ -1,39 +1,35 @@
-## Jordan Mark Barbone
+## Hi 👋  
 
-[![LinkedIn][2.2]][2]  
+I'm a part Data Scientist, Data Engineer at [**Cogstate**](https:/cogstate.com) where I create analytical processes and reports in `R` and build data processing pipelines in `Python` with `{pyspark}` on **Databricks**.
+I develop `R` packages in my sparetime, like [`{cnd}`](https://jmbarbone.github.io/cnd) for createing and managing detailed `condition` objects, and [`{scribe}`](https://jmbarbone.github.io/scribe) to handle argument parsing when using `Rscript`.
+I drink a lot of ☕ , enjoy a good [negroni](https://www.youtube.com/watch?v=MNxWjRU8oxU&t=62s), and will show you [pictures of my dog](https://www.instagram.com/thelabbuckley/).
 
-Statistical programming, R development, cognitive science.  Background and experience in Clinical Trials and Psychology.
+I've been working in Clinical Trials for about a decade, mostly in Alzheimer's Disease and other CNS, psychiatry indications 🧠.
+My education was is in Psychology, where I got to write down numbers, make rats 🐀 press buttons in boxes, and people press buttons on computers 💻.
+You can check my [_curriculum vitae_](https://github.com/jmbarbone/barbone-cv/blob/main/Barbone-CV.pdf) for more details, or find some works on my [Anthology 💮](https://jmbarbone.github.io/anthology.html) page.
 
-### Things used
+### Places
+
+🏠 https://jmbarobne.github.io/  
+💼 https://linkedin.com/in/jmbarbone  
+🟦 https://bsky.app/profile/barbone.bsky.social  
+🐘 https://fosstodon.org/@barbone  
+
+### Coding
 
 ![](https://img.shields.io/badge/R-advanced-informational?style=flat&logo=r&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/Python-basic-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/Git-basic-informational?style=flat&logo=git&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/SQL-basic-informational?style=flat&logo=sql&logoColor=white&color=5D6D7E)
-![](https://img.shields.io/badge/shell-basic-informational?style=flat&logo=sh&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/Python-intermediate-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/Git-intermediate-informational?style=flat&logo=git&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/SQL-intermediate-informational?style=flat&logo=sql&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/shell-intermediate-informational?style=flat&logo=sh&logoColor=white&color=5D6D7E)
 
-<!-- This doesn't appear to be working
-#### Overview
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=jmbarbone&show_icons=true&custom_title=Things%20done&theme=dark" height=200/>
+</a>
 
-<img src="https://github-readme-linkedin.vercel.app/experience?username=jmbarbone"/>
--->
-
-### Extra bits
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=jmbarbone&count_private=false&show_icons=true&custom_title=Things%20done&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=html,javascript,tex,css,lua,vba&langs_count=10&layout=compact&custom_title=Things%20stuff%20are%20in&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/jmbarbone
-[2]: https://www.linkedin.com/in/jmbarbone
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=sas,html,tex,javascript,css,hcl,rust,c,lua,vba,powershell,c%2B%2B,dockerfile,makefile,rez&langs_count=4&size_weight=0.5&count_weight=0.5&theme=dark&custom_title=Things%20stuff%20are%20in" height=200 />
+</a>
 
 <!--
 Additional resources:
