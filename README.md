@@ -24,11 +24,11 @@ You can check my [_curriculum vitae_](https://github.com/jmbarbone/barbone-cv/bl
 ![](https://img.shields.io/badge/shell-intermediate-informational?style=flat&logo=sh&logoColor=white&color=5D6D7E)
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=jmbarbone&show_icons=true&custom_title=Things%20done&theme=dark" height=200/>
+<img src="https://github-readme-stats-ten-beryl-29.vercel.app/api?username=jmbarbone&show_icons=true&custom_title=Things%20done&theme=dark" height=200/>
 </a>
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbarbone&hide=sas,html,tex,javascript,css,hcl,rust,c,lua,vba,powershell,c%2B%2B,dockerfile,makefile,rez&langs_count=4&size_weight=0.5&count_weight=0.5&theme=dark&custom_title=Things%20stuff%20are%20in" height=200 />
+<img src="https://github-readme-stats-ten-beryl-29.vercel.app/api/top-langs/?username=jmbarbone&hide=sas,html,tex,javascript,css,hcl,rust,c,lua,vba,powershell,c%2B%2B,dockerfile,makefile,rez&langs_count=4&size_weight=0.5&count_weight=0.5&theme=dark&custom_title=Things%20stuff%20are%20in" height=200 />
 </a>
 
 <!--
