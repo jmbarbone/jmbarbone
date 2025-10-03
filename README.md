@@ -10,7 +10,7 @@ You can check my [_curriculum vitae_](https://github.com/jmbarbone/barbone-cv/bl
 
 ### Places
 
-🏠 https://jmbarobne.github.io/  
+🏠 https://jmbarbone.github.io/  
 💼 https://linkedin.com/in/jmbarbone  
 🟦 https://bsky.app/profile/barbone.bsky.social  
 🐘 https://fosstodon.org/@barbone  
