@@ -1,11 +1,11 @@
 ## Hi 👋  
 
-I'm a part Data Scientist, Data Engineer at [**Cogstate**](https:/cogstate.com) where I create analytical processes and reports in `R` and build data processing pipelines in `Python` with `{pyspark}` on **Databricks**.
-I develop `R` packages outside of work, like [`{cnd}`](https://jmbarbone.github.io/cnd) for creating and managing detailed `condition` objects, and [`{scribe}`](https://jmbarbone.github.io/scribe) to handle argument parsing when using `Rscript`.
+I'm a part Data Scientist, Data Engineer at [**Cogstate**](https://cogstate.com) where I create analytical processes and reports in `R` and build data processing pipelines in `Python` with `{pyspark}` on **Databricks**.
+I develop `R` packages outside of work, like [`{cnd}`](https://jmbarbone.github.io/cnd) for creating and managing advanced `condition` objects, and [`{scribe}`](https://jmbarbone.github.io/scribe) to handle argument parsing when using `Rscript`.
 I drink a lot of ☕ , enjoy a good [negroni](https://www.youtube.com/watch?v=MNxWjRU8oxU&t=62s), and will show you [pictures of my dog](https://www.instagram.com/thelabbuckley/).
 
-I've been working in the clinical trial industry for about a decade, mostly in Alzheimer's Disease and other CNS, psychiatry indications 🧠.
-My education was is in Psychology, where I got to write down numbers, encourage [rats 🐀 to press buttons in boxes](https://en.wikipedia.org/wiki/Operant_conditioning_chamber), and encourage [people to press buttons on computers 💻](https://webcnp.med.upenn.edu/about.html).
+I've been working in the clinical trial industry for about a decade, mostly concerning rater training and data quality infor Alzheimer's Disease and other CNS, psychiatry indications 🧠.
+My education is in Psychology, where I got to write down numbers, encourage [rats 🐀 to press buttons in boxes](https://en.wikipedia.org/wiki/Operant_conditioning_chamber), and encourage [people to press buttons on computers 💻](https://webcnp.med.upenn.edu/about.html).
 You can check my [_curriculum vitae_](https://github.com/jmbarbone/barbone-cv/blob/main/Barbone-CV.pdf) for more details, or find some works on my [Anthology 💮](https://jmbarbone.github.io/anthology.html) page.
 
 ### Places
