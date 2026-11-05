@@ -31,8 +31,6 @@ You can check my [_curriculum vitae_](https://github.com/jmbarbone/barbone-cv/bl
 <img src="https://github-readme-stats-ten-beryl-29.vercel.app/api/top-langs/?username=jmbarbone&hide=sas,html,tex,javascript,css,hcl,rust,c,lua,vba,powershell,c%2B%2B,dockerfile,makefile,rez,ruby,roff&langs_count=4&size_weight=0.5&count_weight=0.5&theme=dark&custom_title=Things%20stuff%20are%20in" height=200 />
 </a>
 
-[Open the Chart in the Vega Editor](https://vega.github.io/editor/#/url/vega-lite/N4IgJAzgxgFgpgWwIYgFwhgF0wBwqgegIDc4BzJAOjIEtMYBXAI0poHsDp5kTykBaADZ04JAGyUAVhDYA7EABoQAdxoATemhBQ5mJDVlwATooxwaZLGgBMAVgAMStUj1pQDI4K3O9BKEiMIKRl5AF8lZCMAay0mANM4WR01AzI3EAAPdIAzGjhBNS0AeSMLAxBwkABPdKQyMiM+TDgtHQZZTFNMOkEW9AA5BgQmYwACNmzRgGEAiArQ0KA)
-
 <!--
 Additional resources:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
